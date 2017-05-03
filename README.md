@@ -11,7 +11,9 @@ A Python library for OpenAPI's HTTP-based Core APIs.
 
 ### SDK安装
 
-在本项目路径下执行 `$ python setup.py install`
+```bash
+$ pip install opends
+```
 
 ### 注意事项
 1. python支持版本：2.6/2.7
